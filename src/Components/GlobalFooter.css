@@ -1,0 +1,35 @@
+
+/* Footer Container  */
+#GlobalFooter {
+    height: 180px;
+    width: auto;
+    background-color: black;
+}
+
+
+/* 1st Part  */
+#FooterBody {
+    height: 90%;
+    width: 100%;
+}
+
+#FooterWebLinks {
+
+}
+
+#FooterLogoandLinks {
+
+}
+
+#FooterSocialLinks {
+    
+}
+
+
+/* 2nd Part */
+#FooterTOS {
+    height: auto;
+    width: 100%;
+}
+
+

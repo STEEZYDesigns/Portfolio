@@ -1,0 +1,13 @@
+#Homebody {
+    height: auto;
+    width: auto;
+    background-color: aliceblue;
+}
+
+#WelcomeSign {
+    display: flex;
+    font-size: 36px;
+    justify-content: center;
+    background-color: honeydew;
+}
+

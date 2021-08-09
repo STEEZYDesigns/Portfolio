@@ -1,0 +1,76 @@
+@import "custom.scss";
+
+/* Containter fluid first encompasses all 
+    Secondly, the GlobalHeader div does */
+#GlobalHeader {
+    height: 250px;
+    width: auto;
+    background-color: black;
+}
+
+
+
+
+
+/* First part of Header, First Row, CompanyHeader1 */
+#CompanyHeader1 {
+    display: flex;
+    height: auto;
+}
+
+/* #Menu {
+    height: auto;
+    width: auto;
+    justify-content: left;
+} */
+
+#CoName { /*div */
+    height: auto;
+    width: 100%;
+    letter-spacing: .9rem;
+}
+
+
+
+
+
+/* Second part of Header */
+#CompanyHeader2 {
+    display: flex;
+    height: 90.5%;
+    background-image: url("./WebsiteImages/timeless.gif");
+    background-position: center;
+    background-size: 100%, auto;
+    background-repeat: no-repeat;
+    align-items: center;
+    align-content: right;
+    justify-content: space-evenly;
+}
+
+/* Col1, HeaderBody2 */
+#HeaderLogo {
+    display: flex;
+    height: 30%;
+    width: 30%;
+    margin: auto;
+    background-color: none;
+}
+
+/* Col2, HeaderBody2 */
+#Searchbar {
+    display: flex;
+    justify-content: center;
+    width: auto;
+    height: auto;
+    margin: auto;
+}
+
+#IconUseDisclosure {
+    display: flex;
+    font-size: 60%;
+    color:violet;
+    justify-content: center;
+    width: auto;
+    height: auto;
+    margin: auto;
+}
